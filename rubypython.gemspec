@@ -1,9 +1,9 @@
 # -*- encoding: utf-8 -*-
-# stub: rubypython 0.6.4 ruby lib
+# stub: rubypython 0.6.5 ruby lib
 
 Gem::Specification.new do |s|
   s.name = "rubypython"
-  s.version = "0.6.4"
+  s.version = "0.6.5"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.require_paths = ["lib"]
